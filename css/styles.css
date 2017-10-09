@@ -1,3 +1,15 @@
 a{
   margin-left: 30px;
 }
+.align{
+  display: block;
+  text-align: right;
+  padding-right: 50px;
+  padding-top: 20px;
+}
+.spacing{
+  padding-left: 20px;
+  display: block;
+  text-align: center;
+ padding-top: 20px;
+}
